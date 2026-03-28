@@ -13,6 +13,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   sudo \
   fzf \
   zsh \
+  tmux \
   man-db \
   unzip \
   gnupg2 \
